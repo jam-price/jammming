@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:Livestorm SAS
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20201011T214151Z
+UID:29c7a4e4-4d38-46e7-8b3d-e52385f8a05f
+DTSTART:20201012T170000Z
+DTEND:20201012T190000Z
+DESCRIPTION:APIs are eating the world. This word is everywhere\, though you
+  have a hard time figuring out exactly what it&#39\;s about. This workshop
+  sheds light on that notion through several examples of web APIs y...\nTo 
+ join the live event\, just click on this link https://app.livestorm.co/p/1
+ c7c340b-bdba-498a-96ac-16ab276555cc/live?email=jamesmprice%40hotmail.co.uk
+ &key=1980&s=57235f54-7381-4427-929e-e901356ee374. This access link is pers
+ onal\, so please don’t share it with anyone. For an optimal experience\,
+  we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:APIs for beginners: Learn to automate tasks
+URL:https://app.livestorm.co/p/1c7c340b-bdba-498a-96ac-16ab276555cc/live?em
+ ail=jamesmprice%40hotmail.co.uk&key=1980&s=57235f54-7381-4427-929e-e901356
+ ee374
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-P1D
+DESCRIPTION:APIs are eating the world. This word is everywhere\, though you
+  have a hard time figuring out exactly what it&#39\;s about. This workshop
+  sheds light on that notion through several examples of web APIs y...\nTo 
+ join the live event\, just click on this link https://app.livestorm.co/p/1
+ c7c340b-bdba-498a-96ac-16ab276555cc/live?email=jamesmprice%40hotmail.co.uk
+ &key=1980&s=57235f54-7381-4427-929e-e901356ee374. This access link is pers
+ onal\, so please don’t share it with anyone. For an optimal experience\,
+  we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:APIs for beginners: Learn to automate tasks
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT1H
+DESCRIPTION:APIs are eating the world. This word is everywhere\, though you
+  have a hard time figuring out exactly what it&#39\;s about. This workshop
+  sheds light on that notion through several examples of web APIs y...\nTo 
+ join the live event\, just click on this link https://app.livestorm.co/p/1
+ c7c340b-bdba-498a-96ac-16ab276555cc/live?email=jamesmprice%40hotmail.co.uk
+ &key=1980&s=57235f54-7381-4427-929e-e901356ee374. This access link is pers
+ onal\, so please don’t share it with anyone. For an optimal experience\,
+  we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:APIs for beginners: Learn to automate tasks
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+TRIGGER:-PT5M
+DESCRIPTION:APIs are eating the world. This word is everywhere\, though you
+  have a hard time figuring out exactly what it&#39\;s about. This workshop
+  sheds light on that notion through several examples of web APIs y...\nTo 
+ join the live event\, just click on this link https://app.livestorm.co/p/1
+ c7c340b-bdba-498a-96ac-16ab276555cc/live?email=jamesmprice%40hotmail.co.uk
+ &key=1980&s=57235f54-7381-4427-929e-e901356ee374. This access link is pers
+ onal\, so please don’t share it with anyone. For an optimal experience\,
+  we recommend using Google Chrome\, Firefox or Opera.
+SUMMARY:APIs for beginners: Learn to automate tasks
+END:VALARM
+END:VEVENT
+END:VCALENDAR
